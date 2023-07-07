@@ -81,7 +81,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_3_&",
+			"name": "EP_3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -124,7 +124,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_4_&",
+			"name": "EP_4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -167,7 +167,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_5_&",
+			"name": "EP_5",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -210,7 +210,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_6_&",
+			"name": "EP_6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -253,7 +253,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_7_&",
+			"name": "EP_7",
 			"request": {
 				"method": "POST",
 				"header": [],
